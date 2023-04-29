@@ -1,5 +1,4 @@
-
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 
 function FirstComponet(props) { 
     // using useState,we are able to update the data 
