@@ -2,11 +2,19 @@ import React from "react";
 import FirstComponet from "./FirstComponet";
 import SecondComonet from "./SecondComonet";
 
-function App(){
+
+// function App(){
+//     return(
+//         <>
+//         <SecondComonet/>
+//         </>
+//     )
+// }
+const App = () => {
     return(
         <>
         <SecondComonet/>
-        </>
+        </> 
     )
 }
 
